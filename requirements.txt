@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+soupsieve==2.0.1
+urllib3==1.25.11
+xlrd==1.2.0
